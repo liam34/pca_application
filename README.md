@@ -1,5 +1,8 @@
 # pca_application
 
+What is Data Scientist?<br>
+https://www.notion.so/shashankkalanithi/Shashank-s-Data-Science-Hub-Public-bf4f765a0ee1414cb3f175cffb74606c
+
 recreate environment<br>
 streamlit<br>
 pandas<br>
