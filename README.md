@@ -3,7 +3,7 @@
 recreate environment
 streamlit,pandas,plotly
 
-conda create --name streamlit_2
+conda create --name streamlit_2<br>
 conda activate streamlit_2
 conda install -c conda-forge streamlit or conda create -n opencv
 conda install -c conda-forge scikit-learn
