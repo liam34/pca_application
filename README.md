@@ -14,3 +14,5 @@ conda install -c plotly plotly<br>
 *data use - fueleconomy.gov<br>
 
 to run -> on anaconda promt cmd -> streamlit_2 env: streamlit run application.py<br>
+
+create test.ipynb file to test data given<br>
